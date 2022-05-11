@@ -1,0 +1,282 @@
+# Page settings
+
+baseURL = "http://mazzutti.github.io/"
+languageCode = "en"
+title = ""
+theme = "hugo-devresume-theme"
+googleAnalytics = "UA-XXXXXXX-Y"
+
+
+[params]
+    author = "CowboySmall"
+    description = "DevResume - Bootstrap 4 Resume/CV Template For Software Developers"
+
+
+    primaryColor = "#54B689"
+    textPrimaryColor = "#292929"
+
+
+
+
+    [params.profile]
+        enable = true
+        name = "Tiago Mazzutti"
+        tagline = "Software Engineer"
+        avatar = "avatar.png"
+
+
+
+
+
+
+
+    [params.contact]
+        enable = true
+        location = "Brazil"
+
+        [[params.contact.list]]
+        icon = "fas fa-phone-square"
+        url = "tel:#"
+        text = "+55 49 988386214"
+        [[params.contact.list]]
+        icon = "fas fa-envelope-square"
+        url = "mailto:#"
+        text = "tiagomzt@gmail.com"
+        [[params.contact.list]]
+        icon = "fas fa-globe"
+        url = "#"
+        text = "www.linkedin.com/in/mazzutti"
+
+
+
+
+
+
+
+    [params.skills]
+        enable = true
+
+        [[params.skills.list]]
+        title = "Technical"
+        [[params.skills.list.items]]
+        details = "JavaScript/Angular/React/Vue"
+        [[params.skills.list.items]]
+        details = "Python/Ruby/PHP"
+        [[params.skills.list.items]]
+        details = "Node.js/ASP.NET"
+        [[params.skills.list.items]]
+        details = "PostgreSQL/MySQL"
+        [[params.skills.list.items]]
+        details = "Object-oriented design"
+        [[params.skills.list.items]]
+        details = "Design and implement database structures"
+        [[params.skills.list.items]]
+        details = "Lead and deliver complex software systems"
+
+        [[params.skills.list]]
+        title = "Professional"
+        [[params.skills.list.items]]
+        details = "Effective communication"
+        [[params.skills.list.items]]
+        details = "Team player"
+        [[params.skills.list.items]]
+        details = "Strong problem solver"
+        [[params.skills.list.items]]
+        details = "Good time management"
+
+
+
+
+
+
+
+
+    [params.education]
+        enable = true
+
+        [[params.education.list]]
+        degree = "Doctor of Science (Ph.D.) - Computer Science"
+        university = "Universidade Federal de Santa Catarina - Brazil"
+        dates = "2015 - 2019"
+        grade =  "4.0 out of 4.0"
+        [[params.education.list]]
+        degree = "Master of Science (M.Sc.) - Computer Science"
+        university = "Universidade Federal de Santa Catarina - Brazil"
+        dates = "2009 - 2011"
+        grade = "4.0 out of 4.0"
+        [[params.education.list]]
+        degree = "Bachelor of Science (B.Sc.) - Computer Science"
+        university = "Universidade Federal de Santa Catarina - Brazil"
+        dates = "2005 - 2009"
+        grade = "8.07 out of 10.0"
+
+
+
+
+
+
+
+
+    [params.awards]
+        enable = false
+
+        [[params.awards.list]]
+        name = "Award Lorem Ipsum"
+        body = "Microsoft lorem ipsum"
+        date = "2019"
+        [[params.awards.list]]
+        name = "Award Donec Sodales"
+        body = "Oracle Aenean"
+        date = "2017"
+
+
+
+
+
+
+
+
+    [params.languages]
+        enable = true
+
+        [[params.languages.list]]
+        name = "Portuguese"
+        level = "Native"
+        [[params.languages.list]]
+        name = "English"
+        level = "Professional"
+
+
+
+
+
+
+
+
+
+    [params.interests]
+        enable = false
+
+        [[params.interests.list]]
+        name = "Science Fiction Movies"
+        [[params.interests.list]]
+        name = "Travelling"
+
+
+
+
+
+
+
+
+    [params.summary]
+        enable = true
+        text = "I'm a full time  teacher and completely passionate about  programming languages.  I have experience  in teaching programming, algorithm design, data structures, full stack, mobile and web development, OOP, among others. I work mainly with  Python, Javascript, Dart,  Flutter, Typescript, C++, Matlab, Java, HTML. and CSS. I’m also a machine learning enthusiast who is completely passionate about finding exciting insights from real-world data."
+
+
+
+
+
+
+
+
+    [params.experience]
+        enable = true
+
+        [[params.experience.list]]
+        title = "Full Professor"
+        dates = "2011 - Present"
+        company = "Instituto Federal Catarinese - Brazil"
+        details = "After I finished my Master's Degree, I started to work as a full time computer science professor, teaching topics like: computer programming, algorithm design, data structures, full stack, mobile and web development, among others, using technologies like Python, JavaScript, Dart, Flutter, React, Angular, Vue,  HTML, CSS, git, Latex, etc."
+        [[params.experience.list.items]]
+        details = "Lorem ipsum dolor sit amet, consectetuer."
+        [[params.experience.list.items]]
+        details = "Aenean commodo ligula eget dolor."
+        [[params.experience.list.items]]
+        details = "Etiam ultricies nisi vel augue."
+
+        [[params.experience.list]]
+        title = "Postgraduate Distance Learning Coordinator"
+        dates = "2011 - Present"
+        company = "Instituto Federal Catarinese (Campus Concórdia) - Brazil"
+        details = "After I finished my Master's Degree, I started to work as a full time computer science professor, teaching topics like: computer programming, algorithm design, data structures, full stack, mobile and web development, among others, using technologies like Python, JavaScript, Dart, Flutter, React, Angular, Vue,  HTML, CSS, git, Latex, etc."
+        [[params.experience.list.items]]
+        details = "Lorem ipsum dolor sit amet, consectetuer."
+        [[params.experience.list.items]]
+        details = "Aenean commodo ligula eget dolor."
+        [[params.experience.list.items]]
+        details = "Etiam ultricies nisi vel augue."
+
+  
+
+
+
+
+
+
+
+    [params.projects]
+        enable = true
+
+        [[params.projects.list]]
+        title = "antlr4dart (Jan 2014 - Aug 2014)"
+        meta = "Open Source"
+        tagline = "Just for fun, I created a complete Dart implementation of the majority of features ANTLR provides for other language targets, such as Java and CSharp. It delivers:"
+        ext_link = "https://github.com/mazzutti/antlr4dart"
+        [[params.projects.list.items]]
+        details = "An extended version of the latest ANTLR program, bundling all necessary Java code and templates for producing fully featured language recognition in Dart code."
+        [[params.projects.list.items]]
+        details = "A antlr4dart runtime library that collects classes used throughout the code that ANTLR generates."
+        [[params.projects.list.items]]
+        details = "An antlr4 jar with Dart support, used to to generate code for performing a variety of language recognition tasks: lexing, parsing, abstract syntax tree construction and manipulation, tree structure recognition, and input translation."
+
+
+
+
+
+
+
+
+    [params.information]
+        enable = true
+
+        [[params.information.list]]
+        title = "Papers"
+        [[params.information.list.items]]
+        details = "Adaptive missing data imputation with incremental Neuro-Fuzzy gaussian mixture network (INFGMN)"
+        journal = "International Joint Conference on Neural Networks (IJCNN) - IEEE Xplore · Oct 15, 2018"
+        ext_link = "https://doi.org/10.1109/IJCNN.2018.8489515"
+        [[params.information.list.items]]
+        details = "INFGMN – Incremental Neuro-Fuzzy Gaussian mixture network"
+        journal = "Expert Systems with Applications - Elsevier · Dec 15, 2017"
+        ext_link = "https://doi.org/10.1016/j.eswa.2017.07.032"
+        [[params.information.list]]
+        title = "Interests"
+        details = "Science Fiction Movies, Travelling, Fishing"
+
+
+
+
+
+
+
+
+    [params.social]
+        enable = true
+
+        [[params.social.list]]
+        icon = "fab fa-github-square"
+        url = "//github.com/mazzutti"
+        title = ""
+        [[params.social.list]]
+        icon = "fab fa-linkedin"
+        url = "//linkedin.com/in/mazzutti"
+        title = ""
+        [[params.social.list]]
+        icon = "fab fa-twitter-square"
+        url = "//twitter.com/username"
+        title = ""
+
+
+
+
