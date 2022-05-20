@@ -265,6 +265,8 @@ googleAnalytics = "UA-XXXXXXX-Y"
         url = "//twitter.com/username"
         title = ""
 
-
+    [params.footer]
+        enable = true
+        copyright = "Tiago Mazzutti"
 
 
