@@ -10,7 +10,7 @@
                                     </div>
                                     <div class="item-meta text-muted text-left, mb-2">{{ .company }} | {{ .dates }}</div>
 
-                                    <div class="item-content">
+                                    <div class="item-content text-justify">
                                         <p>{{ with .details }}{{ . | markdownify }}{{ end }}</p>
                                         <ul class="resume-list">
                                             {{ range .items }}
