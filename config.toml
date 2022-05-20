@@ -133,9 +133,6 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
 
 
-
-
-
     [params.interests]
         enable = true
 
