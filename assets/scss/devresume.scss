@@ -46,12 +46,16 @@ h4 > a {
 	color: $theme-color-primary;
 }
 
+.skills {
+	display: inline;
+}
+
 .skill-separator {
 	color: $theme-color-primary;
 	font-size:6px;
 	margin: 4px 4px;
     display: inline;
-    height: 2px;
+    height: 4px;
     vertical-align: middle;
     width: 4px;
 }

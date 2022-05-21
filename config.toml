@@ -75,9 +75,9 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.skills.list.items]]
         details = "Engineering"
         [[params.skills.list.items]]
-        details = "Algorithms"
-        [[params.skills.list.items]]
         details = "Graph Theory"
+        [[params.skills.list.items]]
+        details = "Algorithms"
         [[params.skills.list.items]]
         details = "Computer Science"
         [[params.skills.list.items]]
@@ -106,6 +106,8 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.skills.list.items]]
         details = "Adaptability"
         [[params.skills.list.items]]
+        details = "Flexibility"
+        [[params.skills.list.items]]
         details = "Good Time management"
         [[params.skills.list.items]]
         details = "Collaboration"
@@ -114,13 +116,13 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.skills.list.items]]
         details = "Communication"
         [[params.skills.list.items]]
+        details = "Empathy"
+        [[params.skills.list.items]]
         details = "Teamwork"
         [[params.skills.list.items]]
         details = "Creativity"
         [[params.skills.list.items]]
         details = "Diversity & Inclusion"
-        [[params.skills.list.items]]
-        details = "Empathy"
         [[params.skills.list.items]]
         details = "Work ethic"
         [[params.skills.list.items]]
@@ -133,8 +135,6 @@ googleAnalytics = "UA-XXXXXXX-Y"
         details = "Decision-Making"
         [[params.skills.list.items]]
         details = "Problem Solver"
-        [[params.skills.list.items]]
-        details = "Flexibility"
         [[params.skills.list.items]]
         details = "Willingness to learn"
         [[params.skills.list.items]]
