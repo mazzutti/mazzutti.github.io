@@ -8,7 +8,7 @@
                                     <div class="item-heading row align-items-center mb-">
                                         <h4 class="item-title col-12 col-md-6 col-lg-12 mb-2 mb-md-0">{{ .title }}</h4>
                                     </div>
-                                    <div class="item-meta text-muted text-left, mb-2">{{ .company }} | {{ .dates }}</div>
+                                    <div class="item-meta text-muted text-left, mb-2">{{ with .company }}{{ . | markdownify }}{{ end }} | {{ .dates }}</div>
 
                                     <div class="item-content text-justify">
                                         <p>{{ with .details }}{{ . | markdownify }}{{ end }}</p>
