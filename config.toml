@@ -1,6 +1,6 @@
 # Page settings
 
-baseURL = "http://mazzutti.github.io/"
+baseURL = "https://mazzutti.github.io/"
 languageCode = "en"
 title = ""
 theme = "hugo-devresume-theme"
