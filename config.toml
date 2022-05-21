@@ -6,6 +6,12 @@ title = ""
 theme = "hugo-devresume-theme"
 googleAnalytics = "UA-XXXXXXX-Y"
 
+[minify]
+    disableCSS = true
+    [minify.tdewolff]
+    [minify.tdewolff.css]
+    keepCSS2 = true
+
 [params]
     author = "mazzutti"
     description = "DevResume - Bootstrap 4 Resume/CV Template For Software Developers"
