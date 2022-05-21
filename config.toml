@@ -41,7 +41,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.skills.list]]
         title = "Technical"
         [[params.skills.list.items]]
-        details = "Dart"
+        details = " Dart "
         [[params.skills.list.items]]
         details = "Flutter"
         [[params.skills.list.items]]
