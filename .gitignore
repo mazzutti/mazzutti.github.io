@@ -2,6 +2,8 @@
 /public/
 /resources/_gen/
 /assets/jsconfig.json
+/node_modules
+package-lock.json
 hugo_stats.json
 
 # Executable may be added to repository
