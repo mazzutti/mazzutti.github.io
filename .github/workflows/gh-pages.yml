@@ -21,7 +21,7 @@ jobs:
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: 'latest'
-          # extended: true
+          extended: true
 
       - name: Build
         run: hugo --minify
@@ -32,7 +32,7 @@ jobs:
         with:
           github_token: ${{ secrets.ACTIONS_TOKEN }}
           external_repository: mazzutti/mazzutti.github.io
-          publish_dir: ./public
+          publish_dir: ./docs
           user_name: mazzutti
           user_email: tiagomzt@gmail.com
           publish_branch: gh-pages
