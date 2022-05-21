@@ -28,11 +28,7 @@ jobs:
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
-        if: ${{ github.ref == 'refs/heads/main' }}
         with:
           github_token: ${{ secrets.ACTIONS_TOKEN }}
-          external_repository: mazzutti/mazzutti.github.io
-          publish_dir: ./docs
-          user_name: mazzutti
-          user_email: tiagomzt@gmail.com
+          publish_dir: ./public
           publish_branch: gh-pages
