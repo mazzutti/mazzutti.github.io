@@ -15,20 +15,11 @@ googleAnalytics = "UA-XXXXXXX-Y"
     primaryColor = "#54B689"
     textPrimaryColor = "#292929"
 
-
-
-
     [params.profile]
         enable = true
         name = "Tiago Mazzutti"
         tagline = "Software Engineer"
         avatar = "avatar.png"
-
-
-
-
-
-
 
     [params.contact]
         enable = true
@@ -47,12 +38,6 @@ googleAnalytics = "UA-XXXXXXX-Y"
         url = "#"
         text = "www.linkedin.com/in/mazzutti"
 
-
-
-
-
-
-
     [params.skills]
         enable = true
 
@@ -65,10 +50,6 @@ googleAnalytics = "UA-XXXXXXX-Y"
         title = "Professional"
         [[params.skills.list.items]]
         details = "Adaptability • Good Time management • Collaboration • Teamwork • Communication • Teamwork • Creativity • Diversity & Inclusion • Empathy • Work ethic • Presentation Skills • Interpersonal Skills • Analytical Skills • Decision-Making • Problem Solver • Flexibility • Willingness to learn • Positive attitude • Attention to detail."
-
-
-
-
 
     [params.education]
         enable = true
@@ -92,13 +73,6 @@ googleAnalytics = "UA-XXXXXXX-Y"
         details = "As an intern, I took part in the construction of ERP systems, among other projects."
         grade = "8.07 out of 10.0"
 
-
-
-
-
-
-
-
     [params.awards]
         enable = false
 
@@ -110,12 +84,6 @@ googleAnalytics = "UA-XXXXXXX-Y"
         name = "Award Donec Sodales"
         body = "Oracle Aenean"
         date = "2017"
-
-
-
-
-
-
 
 
     [params.languages]
