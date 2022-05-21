@@ -31,4 +31,8 @@ jobs:
         if: ${{ github.ref == 'refs/heads/main' }}
         with:
           github_token: ${{ secrets.ACTIONS_TOKEN }}
+          external_repository: mazzutti/mazzutti.github.io
           publish_dir: ./public
+          user_name: mazzutti
+          user_email: tiagomzt@gmail.com
+          publish_branch: gh-pages
