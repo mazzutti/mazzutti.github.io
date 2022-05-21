@@ -5,6 +5,11 @@ languageCode = "en"
 title = ""
 googleAnalytics = "UA-XXXXXXX-Y"
 
+[minify]
+    [minify.tdewolff]
+        [minify.tdewolff.html]
+            keepWhitespace = true
+
 [params]
     author = "mazzutti"
     description = "DevResume - Bootstrap 4 Resume/CV Template For Software Developers"
