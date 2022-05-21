@@ -63,22 +63,44 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h4 > a {
-	position:relative; 
-  	top:-3px; 
-  	left:2px; 
+	position:relative;
+  	top:-3px;
+  	left:2px;
 }
 
 .mb-0>b {
-	color: #54b689;
+	color: $theme-color-primary;
+}
+
+span.skill-separator {
+	background: $theme-color-primary;
+	margin: 4px 2px 4px 4px;
+    border-radius: 100%;
+	
+    display: inline-block;
+    height: 4px;
+    vertical-align: middle;
+    width: 4px;
+}
+
+::marker {
+	color: $theme-color-primary;
+    unicode-bidi: isolate;
+    font-variant-numeric: tabular-nums;
+    text-transform: none;
+    text-indent: 0px !important;
+    text-align: start !important;
+    text-align-last: start !important;
 }
 
 .text-muted {
+
 	color: rgb(160, 165, 165)!important;
 	font-weight:normal;
 }
 
 .text-muted-colored {
-	color: #54b68999;
+	color: rgba($theme-color-primary,0.8);
 }
 
 a.theme-link {

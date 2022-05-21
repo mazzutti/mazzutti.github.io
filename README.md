@@ -3,19 +3,9 @@
 This is a Hugo port of [DevResume](//github.com/xriley/DevResume-Theme) by [cowboysmall](https://github.com/cowboysmall-tools/hugo-devresume-theme.git) and modified by me - a great looking resume/CV template 
 designed for developers by Xiaoying Riley.
 
-
-
-
-
-
 ## Screenshot
 
 ![DevResume screenshot](https://raw.githubusercontent.com/mazzutti/mazzutti.github.io/main/themes/hugo-devresume-theme/images/screenshot.png)
-
-
-
-
-
 
 ## Features
 
@@ -32,19 +22,9 @@ designed for developers by Xiaoying Riley.
 
 - Google Analytics
 
-
-
-
-
-
 ## Demo
 
 You can see it in action on my [Online Resume](https://mazzutti.github.io/). 
-
-
-
-
-
 
 ## Contents
 
@@ -63,22 +43,11 @@ You can see it in action on my [Online Resume](https://mazzutti.github.io/).
   - [Contributing](#contributing)
   - [License](#license)
 
-
-
-
-
-
 ## Installation
 
 Within the root of your project execute the following:
 
     $ git clone https://github.com/mazzutti/mazzutti.github.io.git
-
-
-
-
-
-
 
 ## Getting Started
 
@@ -104,22 +73,10 @@ To generate your site in the `public` folder, execute the following:
 
 within the root of your project.
 
-
-
-
-
-
-
 ## Contributing
 
 Post bugs and contributions to the [issue tracker](//github.com/cowboysmall-tools/hugo-devresume-theme/issues). 
 Or make a [pull request](//github.com/cowboysmall-tools/hugo-devresume-theme/pulls).
-
-
-
-
-
-
 
 ## License
 
@@ -129,7 +86,6 @@ If you’d like to use this template without the footer attribution link, you ca
 [commercial license](https://themes.3rdwavemedia.com/bootstrap-templates/resume/devresume-free-bootstrap-4-resume-cv-template-for-developers/)
 
 You may change the "Ported for..." line by adding the following to the end of `config.toml`
-    
+
     [params.footer]
         copyright = ""
-
