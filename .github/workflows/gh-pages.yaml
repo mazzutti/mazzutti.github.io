@@ -6,6 +6,11 @@ on:
       - main  # Set a branch name to trigger deployment
   pull_request:
 
+minify:
+  tdewolff:
+    css:
+      keepCSS2: true
+
 jobs:
   deploy:
     runs-on: ubuntu-20.04
