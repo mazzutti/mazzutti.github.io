@@ -112,10 +112,6 @@ publishDir = "docs"
         about = "Enthusiastic and experienced teacher with 10+ years of experience in topics like programming, algorithm design, mobile and web development, data structures and OOP. I'm also a PhD in Computer Science, completely passionate about programming languages and building software solutions with a positive impact in society."
 
 
-
-
-
-
     [params.experience]
         enable = true
 
