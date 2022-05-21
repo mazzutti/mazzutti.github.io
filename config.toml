@@ -101,14 +101,10 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.interests.list]]
         name = "Science Fiction Movies • Space Exploration • Fishing • Travelling • Learning Programming Languages • Programming Computers"
 
-
-
-
     [params.summary]
         enable = true
         objective = "I'm seeking a challenging Software Engineer position in a reputed organization where I can use my knowledge and skills, leverage my learnings and contribute to the organization’s growth."
         about = "Enthusiastic and experienced teacher with 10+ years of experience in topics like programming, algorithm design, mobile and web development, data structures and OOP. I'm also a PhD in Computer Science, completely passionate about programming languages and building software solutions with a positive impact in society."
-
 
     [params.experience]
         enable = true
@@ -136,29 +132,25 @@ googleAnalytics = "UA-XXXXXXX-Y"
         dates = "2015 - 2016"
         company = "Instituto Federal Catarinese - Brazil"
         details = "I was responsible mainly for timimg, course crew and the physical resources management, besides guaranteeing normal functioning of teaching and practical classes activities."
-  
+
         [[params.experience.list]]
         title = "Technical Course in Computer Science Coordinator"
         dates = "2013 - 2015"
         company = "Instituto Federal Catarinese - Brazil"
         details = "I was responsible mainly for timimg, course crew and the physical resources management, besides guaranteeing normal functioning of teaching and practical classes activities."
-  
+
 
         [[params.experience.list]]
         title = "Researcher/Developer"
         dates = "2009 - 2011"
         company = "IATE – Inteligência Artificial e Tecnologia Educacional – UFSC – Brazil"
         details = "I developed AI tools based on Multi-Agent systems and other techniques of Symbolic AI."
-  
+
         [[params.experience.list]]
         title = "Researcher/Developer"
         dates = "2006 - 2009"
         company = "Instituto Federal Catarinese - Brazil"
         details = "As a member of the \"PET\" program, I've written course material for C/C++, Python, Linux, LaTeX, etc, presented seminars and short courses and organized committees for Computer Science events and academic weeks."
-  
-
-
-
 
     [params.projects]
         enable = true
@@ -168,7 +160,6 @@ googleAnalytics = "UA-XXXXXXX-Y"
         company = "UFSC – Brazil"
         dates = "(Jan 2015 - Jan 2018)"
         tagline = "Real-time decision support software for oil well drilling processes, developed mainly with C++ and Qt. This software has been applied successfully to challenging problems such as oil prospecting, modeling, planning, optimization and risk analysis in drilling wells and the characterization of oil reservoirs."
-    
 
         [[params.projects.list]]
         title = "antlr4dart"
@@ -176,12 +167,6 @@ googleAnalytics = "UA-XXXXXXX-Y"
         company = "Open Source"
         tagline = "Just for fun, I created a complete Dartlang port/implementation of the ANTLR parser generator. It includes also the Dart version of the ANTLR runtime library. The source code is open source and available on my Github."
         ext_link = "https://github.com/mazzutti/antlr4dart"
-
-
-
-
-
-
 
     [params.information]
         enable = true
@@ -196,13 +181,6 @@ googleAnalytics = "UA-XXXXXXX-Y"
         details = "INFGMN – Incremental Neuro-Fuzzy Gaussian mixture network"
         journal = "Expert Systems with Applications - Elsevier · Dec 15, 2017"
         ext_link = "https://doi.org/10.1016/j.eswa.2017.07.032"
-
-
-
-
-
-
-
 
     [params.social]
         enable = true
@@ -222,6 +200,4 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
     [params.footer]
         enable = true
-        copyright = "Tiago Mazzutti"
-
-
+        copyright = "Tiago Mazzutti | Ported from [Cowbosmall](//github.com/cowboysmall-tools/hugo-devresume-theme.git)"
