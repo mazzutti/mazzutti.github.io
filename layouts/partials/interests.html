@@ -5,7 +5,7 @@
 
                                 <div class="list-unstyled resume-interests-list mb-0">
                                     {{ range .Site.Params.interests.list }}
-                                    <div class="mb-2 skills">{{ with .name}}{{ . | markdownify }}{{ end }}{{ if not (eq .separator "")}}<p class="separator">●</p>{{end}} </div>
+                                    <div class="mb-2 skills">{{ with .name}}{{ . | markdownify }}{{ end }}{{ if not (eq .separator "")}} <p class="separator">●</p>{{end}} </div>
                                     {{ end }}
                                 </div>
 
