@@ -42,22 +42,22 @@ h4 > a {
   	left:2px;
 }
 
-.mb-0>b {
-	color: #54B689;
+.mb-0 > b {
+	color: $theme-color-primary;
 }
 
 .skill-separator {
-	background: #54B689;
-	margin: 4px 2px 4px 4px;
-    border-radius: 100%;
-    display: inline-block;
-    height: 4px;
+	color: $theme-color-primary;
+	font-size:6px;
+	margin: 4px 4px;
+    display: inline;
+    height: 2px;
     vertical-align: middle;
     width: 4px;
 }
 
 ::marker {
-	color: #54B689;
+	color: $theme-color-primary;
     unicode-bidi: isolate;
     font-variant-numeric: tabular-nums;
     text-transform: none;
@@ -73,10 +73,8 @@ h4 > a {
 }
 
 .text-muted-colored {
-	color: rgba(#54B689,0.8);
+	color: rgba($theme-color-primary,0.8);
 }
-
-
 
 /*************************** DevResume Styles ****************************/
 
