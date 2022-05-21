@@ -229,13 +229,13 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.experience.list]]
         title = "Postgraduate Distance Learning Coordinator"
         dates = "2015 - 2016"
-        company = "Instituto Federal Catarinese - Brazil"
+        company = "[Instituto Federal Catarinese - Brazil](https://ifc.edu.br/)"
         details = "I was responsible mainly for timimg, course crew and the physical resources management, besides guaranteeing normal functioning of teaching and practical classes activities."
 
         [[params.experience.list]]
         title = "Technical Course in Computer Science Coordinator"
         dates = "2013 - 2015"
-        company = "Instituto Federal Catarinese - Brazil"
+        company = "[Instituto Federal Catarinese - Brazil](https://ifc.edu.br/)"
         details = "I was responsible mainly for timimg, course crew and the physical resources management, besides guaranteeing normal functioning of teaching and practical classes activities."
 
 
@@ -248,7 +248,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.experience.list]]
         title = "Researcher/Developer"
         dates = "2006 - 2009"
-        company = "Instituto Federal Catarinese - Brazil"
+        company = "[PET Computação - UFSC – Brazil](https://petcomputacao.ufsc.br/)"
         details = "As a member of the [PET](https://petcomputacao.ufsc.br/) program, I've written course material for C/C++, Python, Linux, LaTeX, etc, presented seminars and short courses and organized committees for Computer Science events and academic weeks."
 
     [params.projects]

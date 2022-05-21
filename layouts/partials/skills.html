@@ -8,7 +8,7 @@
                                     <h4 class="item-title">{{ .title }}</h4>
                                     <div class="list-unstyled resume-skills-list">
                                         {{ range .items }}
-                                        <div class="mb-2 skills">{{ with .details }}{{ . | markdownify }}{{ end }}{{ if not (eq .separator "")}}<p class="skill-separator">●</p>{{end}}</div>
+                                        <div class="mb-2 skills"> {{ with .details }}{{ . | markdownify }}{{ end }}{{ if not (eq .separator "")}}<p class="skill-separator">●</p>{{end}} </div>
                                         {{ end }}
                                     </div>
                                 </br>
