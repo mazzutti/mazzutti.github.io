@@ -5,6 +5,7 @@ languageCode = "en"
 title = ""
 theme = "hugo-devresume-theme"
 googleAnalytics = "UA-XXXXXXX-Y"
+publishDir = "public"
 
 
 [params]
