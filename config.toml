@@ -26,6 +26,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
     [params.contact]
         enable = true
         location = "Brazil"
+        coordinates = "https://www.google.com.br/maps/@-27.2178246,-52.0314427,16.22z"
 
         [[params.contact.list]]
         icon = "fas fa-phone-square"
