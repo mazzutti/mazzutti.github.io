@@ -14,7 +14,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
     author = "mazzutti"
     description = "DevResume - Bootstrap 4 Resume/CV Template For Software Developers"
 
-    primaryColor = "#54B689"
+    primaryColor = "#027DFD"
     textPrimaryColor = "#292929"
 
     [params.profile]
@@ -97,7 +97,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.skills.list.items]]
         details = "Web Applications"
         [[params.skills.list.items]]
-        details = "Representational State Transfer (REST)"
+        details = "REST"
         [[params.skills.list.items]]
         details = " Back-End Web Development"
         [[params.skills.list.items]]
@@ -308,4 +308,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
     [params.footer]
         enable = true
-        copyright = "Tiago Mazzutti | Ported from [Cowbosmall](//github.com/cowboysmall-tools/hugo-devresume-theme.git)"
+        from = "Cowbosmall"
+        from_url = "//github.com/cowboysmall-tools/hugo-devresume-theme.git"
+        copyright = "Tiago Mazzutti"
+        url = "//github.com/mazzutti"

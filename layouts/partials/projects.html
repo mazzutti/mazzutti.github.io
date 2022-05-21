@@ -10,7 +10,7 @@
                                           </svg></i></a> {{ end }}</h4>
                                         <div class="item-meta col-12 col-md-6 col-lg-4 text-muted text-left text-md-right">{{ .meta }}</div>
                                     </div>
-                                    <div class="item-meta text-muted text-left, mb-2">{{ if .icon }}<a href="{{ .url }}"><i class="{{ .icon }}"></i> {{ end }}{{ .company }}{{ if .icon }}</a>{{ end }}<p class="separator">●</p> {{ .dates }}</div>
+                                    <div class="item-meta text-left, mb-2">{{ if .icon }}<a href="{{ .url }}" target="_blank"><i class="{{ .icon }}"></i> {{ end }}{{ .company }}{{ if .icon }}</a>{{ end }}<p class="separator">●</p> <div class="text-muted text-muted-inline">{{ .dates }}</div></div>
                                     <div class="item-content text-justify">
                                         <p>{{ with .tagline }}{{ . | markdownify }}{{ end }}</p>
                                     </div>
