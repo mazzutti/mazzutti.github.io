@@ -159,13 +159,13 @@ googleAnalytics = "UA-XXXXXXX-Y"
         degree = "Doctor of Science (Ph.D.) - Computer Science"
         university = "[Universidade Federal de Santa Catarina - Brazil](//ppgcc.ufsc.br/apresentacao/?lang=en)"
         dates = "2015 - 2019"
-        details = "Research focused in Artificial Neural Networks, Fuzzy Logic and Evolutionary Computing, that led to advances in Computational Intelligence and Machine Learning techniques."
+        details = "The research was focused on Artificial Neural Networks, Fuzzy Logic, and Evolutionary Computing, which led to advances in Computational Intelligence and Machine Learning techniques."
         grade =  "4.0 out of 4.0"
         [[params.education.list]]
         degree = "Master of Science (M.Sc.) - Computer Science"
         university = "[Universidade Federal de Santa Catarina - Brazil](//ppgcc.ufsc.br/apresentacao/?lang=en)"
         dates = "2009 - 2011"
-        details = "Research focused on Multi-Agent Systems."
+        details = "The research focused on Multi-Agent Systems."
         grade = "4.0 out of 4.0"
         [[params.education.list]]
         degree = "Bachelor of Science (B.Sc.) - Computer Science"
@@ -206,7 +206,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.interests.list]]
         name = "Programming Computers"
         [[params.interests.list]]
-        name = "Travelling"
+        name = "Traveling"
         [[params.interests.list]]
         name = "Fishing"
         [[params.interests.list]]
@@ -215,8 +215,8 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
     [params.summary]
         enable = true
-        objective = "I'm seeking a challenging Software Engineer position in a reputed organization where I can use my knowledge and skills, leverage my learnings and contribute to the organization’s growth."
-        about = "Enthusiastic and experienced teacher with 10+ years of experience in topics like programming, algorithm design, mobile and web development, data structures and OOP. I'm also a PhD in Computer Science, completely passionate about programming languages and building software solutions with a positive impact in society."
+        objective = "I’m seeking a challenging Software Engineer position in a reputed organization where I can use my knowledge and skills, leverage my learnings and contribute to the organization’s growth."
+        about = "Enthusiastic and experienced teacher with 10+ years of experience in topics like programming, algorithm design, mobile and web development, data structures, and OOP. I’m also a Ph.D. in Computer Science, absolutely passionate about programming languages and building software solutions with a positive impact on society."
 
     [params.experience]
         enable = true
@@ -224,31 +224,31 @@ googleAnalytics = "UA-XXXXXXX-Y"
         title = "Full Professor"
         dates = "2011 - Present"
         company = "[Instituto Federal Catarinese - Brazil](//ifc.edu.br/)"
-        details = "As I finished my Master's Degree, I started to work as a full time computer science professor. The main activities I have been doing are:"
+        details = "As I finished my Master’s Degree, I started to work as a full-time computer science professor. The main activities I have been doing are:"
         [[params.experience.list.items]]
-        details = "I have taught subjects such as Computational Thinking, Computer Programming, Algorithm Design, Data Structures, Frontend/Backend and Mobile Development."
+        details = "I have taught subjects such as Computational Thinking, Computer Programming, Algorithm Design, Data Structures, Frontend/Backend, and Mobile Development."
         [[params.experience.list.items]]
-        details = "In a practical and effective way, I have been applying technologies such as Python, Javascript, C++, TypeScript, Dart, Flutter, HTML, CSS, git, LaTex and Linux to teaching, research and project development."
+        details = "In a practical and effective way, I have been applying technologies such as Python, Javascript, C++, TypeScript, Dart, Flutter, HTML, CSS, git, LaTex, and Linux to teaching, research, and project development."
         [[params.experience.list.items]]
-        details = "As a member of many cross-functional and interdisciplinary institutional teams, I've been working collaboratively either in person or remotely, employing interpersonal communication skills to design, deploy and manage diverse courses for hundreds of students from different backgrounds."
+        details = "As a member of many cross-functional and interdisciplinary institutional teams, I’ve been working collaboratively either in person or remotely, employing interpersonal communication skills to design, deploy and manage diverse courses for hundreds of students from different backgrounds."
         [[params.experience.list.items]]
         details = "I have been developing and managing learning objectives for several students, guiding them in forming original interpretive arguments based on primary and secondary sources and evidence."
         [[params.experience.list.items]]
         details = "I have presented complex ideas through the synthesis and effective communication of data, to diverse audiences with varying degrees of familiarity with the subject matter."
         [[params.experience.list.items]]
-        details = "I have been learning continuously and effectively, keeping up with technological advances, teaching students with a curriculum suited to the current demands of the job market."
+        details = "I have been learning continuously and effectively, keeping up with technological advances, and teaching students with a curriculum suited to the current demands of the job market."
 
         [[params.experience.list]]
         title = "Postgraduate Distance Learning Coordinator"
         dates = "2015 - 2016"
         company = "[Instituto Federal Catarinese - Brazil](//ifc.edu.br/)"
-        details = "I was responsible mainly for timimg, course crew and the physical resources management, besides guaranteeing normal functioning of teaching and practical classes activities."
+        details = "I was responsible mainly for timing, course crew, and the management of the physical resources, besides guaranteeing normal functioning of teaching and practical classes activities."
 
         [[params.experience.list]]
         title = "Technical Course in Computer Science Coordinator"
         dates = "2013 - 2015"
         company = "[Instituto Federal Catarinese - Brazil](//ifc.edu.br/)"
-        details = "I was responsible mainly for timimg, course crew and the physical resources management, besides guaranteeing normal functioning of teaching and practical classes activities."
+        details = "I was mainly responsible for the planning, elaboration, production, and monitoring of the classroom teaching activities. In addition, it was my responsibility to establish norms to promote the integral formation of students and to evaluate and reformulate the teaching-learning approach according to the course objectives, if necessary. Finally, I had to guarantee the normal execution of the course, solving any problems that arose and helping the other teachers and students with conflict solving."
 
 
         [[params.experience.list]]
@@ -261,7 +261,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         title = "Researcher/Developer"
         dates = "2006 - 2009"
         company = "[PET Computação - UFSC – Brazil](//petcomputacao.ufsc.br/)"
-        details = "As a member of the [PET](//petcomputacao.ufsc.br/) program, I've written course material for C/C++, Python, Linux, LaTeX, etc, presented seminars and short courses and organized committees for Computer Science events and academic weeks."
+        details = "As a member of the PET program, I’ve written course material for C/C++, Python, Linux, and LaTeX, done seminar presentations and short courses, and organized committees for Computer Science events and academic weeks."
 
     [params.projects]
         enable = true
@@ -270,13 +270,13 @@ googleAnalytics = "UA-XXXXXXX-Y"
         title = "SO-BR v2"
         company = "UFSC – Brazil"
         dates = "Jan 2015 - Jan 2018"
-        tagline = "Real-time decision support software for oil well drilling processes, developed mainly with C++ and Qt. This software has been applied successfully to challenging problems such as oil prospecting, modeling, planning, optimization and risk analysis in drilling wells and the characterization of oil reservoirs."
+        tagline = "I helped develop a real-time decision support software for oil well drilling processes, developed mainly with C++ and Qt. This software has been applied successfully to challenging problems such as oil prospecting, modeling, planning, optimization, and risk analysis in drilling wells and the characterization of oil reservoirs."
 
         [[params.projects.list]]
         title = "antlr4dart"
         dates = "Jan 2014 - Aug 2014"
         company = "Open Source"
-        tagline = "Just for fun, I created a complete Dartlang port/implementation of the [ANTLR](//www.antlr.org/) parser generator. It includes also the [Dart version](//github.com/mazzutti/antlr4dart-runtime) of the ANTLR runtime library [API](//www.antlr.org/api/). The source code is open source and available on my [Github](//github.com/mazzutti/antlr4dart)."
+        tagline = "Just for fun, I created a complete Dartlang port/implementation of the [ANTLR](//www.antlr.org/) parser generator that includes a [Dart version](//github.com/mazzutti/antlr4dart-runtime) of the ANTLR runtime library [API](//www.antlr.org/api/). The source code is open source and available on my [Github](//github.com/mazzutti/antlr4dart)."
         url = "//github.com/mazzutti/antlr4dart"
         icon = "fab fa-github-square"
 
