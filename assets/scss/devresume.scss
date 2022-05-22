@@ -52,7 +52,13 @@ h4 > a {
 	font-size: 16px!important;
 }
 
+.resume-main {
+	margin-right: -10px;
+}
 
+.resume-aside {
+	padding-right: 5px;
+}
 
 li > p.text-muted {
 	font-size: 13px!important;
@@ -63,15 +69,15 @@ li > p.text-muted {
 }
 
 .skills {
-	display: inline;
-	line-height: 2;
+	display: inline-block;
+	line-height: 1.5;
 }
 
 .separator {
 	color: $theme-color-primary;
 	font-size:6px;
-	margin-left: 7px;
-	margin-right: 3px;
+	margin-left: 4px;
+	margin-right: 0px;
     display: inline;
     height: 4px;
     vertical-align: middle;

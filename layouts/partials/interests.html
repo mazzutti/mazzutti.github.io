@@ -2,11 +2,17 @@
                             <section class="skills-section py-3">
 
                                 <h3 class="text-uppercase resume-section-heading mb-4">{{ i18n "interests" }}</h3>
-
-                                <div class="list-unstyled resume-interests-list mb-0">
-                                    {{ range .Site.Params.interests.list }}
-                                    <div class="mb-2 skills">{{ with .name}}{{ . | markdownify }}{{ end }}{{ if not (eq .separator "")}} <p class="separator">●</p>{{end}} </div>
-                                    {{ end }}
+                                <div class="item">
+                                    <div class="list-unstyled resume-interests-list mb-0">
+                                        {{ range .Site.Params.interests.list }}
+                                        <div class="mb-2 skills">{{ with .name }}{{ . | markdownify }}{{ end }}{{ if not (eq .separator "")}}<p class="separator">●</p>{{end}}</div>
+                                        {{ end }}
+                                    </div>
                                 </div>
-
                             </section><!--//certificates-section-->
+{{/*  
+                            <div class="list-unstyled resume-skills-list mb-0">
+                                {{ range .items }}
+                                <div class="mb-2 skills"> {{ with .details }}{{ . | markdownify }}{{ end }}{{ if not (eq .separator "")}}<p class="separator">●</p>{{end}} </div>
+                                {{ end }}
+                            </div>  */}}

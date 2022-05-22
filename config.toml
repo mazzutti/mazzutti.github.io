@@ -73,33 +73,31 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.skills.list.items]]
         details = "NodeJS"
         [[params.skills.list.items]]
-        details = "Software Development"
+        details = "Graph Theory"
         [[params.skills.list.items]]
-        details = "Data Structures"
-        [[params.skills.list.items]]
-        details = "Strong Programming Skills"
+        details = "Software Dev."
         [[params.skills.list.items]]
         details = "Engineering"
         [[params.skills.list.items]]
-        details = "Graph Theory"
+        details = "Data Structures"
         [[params.skills.list.items]]
         details = "Algorithms"
         [[params.skills.list.items]]
-        details = "Computer Science"
+        details = "Strong Programming Skills"
         [[params.skills.list.items]]
         details = "Computer Programming"
         [[params.skills.list.items]]
-        details = "Test Automation"
+        details = "Computer Science"
         [[params.skills.list.items]]
-        details = "Software Design"
+        details = "Test Automation"
         [[params.skills.list.items]]
         details = "Agile Methodologies"
         [[params.skills.list.items]]
-        details = "Web Applications"
+        details = "Software Design"
         [[params.skills.list.items]]
         details = "REST"
         [[params.skills.list.items]]
-        details = " Back-End Web Development"
+        details = "Front & Back-End Web Dev."
         [[params.skills.list.items]]
         details = "Scrapy"
         [[params.skills.list.items]]
@@ -132,19 +130,25 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.skills.list.items]]
         details = "Work ethic"
         [[params.skills.list.items]]
-        details = "Presentation Skills"
+        details = "Active Listening"
         [[params.skills.list.items]]
-        details = "Interpersonal Skills"
+        details = "Critical thinking"
         [[params.skills.list.items]]
-        details = "Analytical Skills"
+        details = "Research"
+        [[params.skills.list.items]]
+        details = "Problem Solver"
+        [[params.skills.list.items]]
+        details = "Planning"
         [[params.skills.list.items]]
         details = "Decision-Making"
         [[params.skills.list.items]]
-        details = "Problem Solver"
+        details = "Presentation Skills"
         [[params.skills.list.items]]
         details = "Willingness to learn"
         [[params.skills.list.items]]
         details = "Positive attitude"
+        [[params.skills.list.items]]
+        details = "Management"
         [[params.skills.list.items]]
         details = "Attention to detail."
         separator = ""
@@ -198,13 +202,15 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.interests.list]]
         name = "Space Exploration"
         [[params.interests.list]]
-        name = "Fishing"
+        name = "Learning Prog. Languages"
+        [[params.interests.list]]
+        name = "Programming Computers"
         [[params.interests.list]]
         name = "Travelling"
         [[params.interests.list]]
-        name = "Learning Programming Languages"
+        name = "Fishing"
         [[params.interests.list]]
-        name = "Programming Computers."
+        name = "Machine Learning."
         separator = ""
 
     [params.summary]
