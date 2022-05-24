@@ -3,7 +3,7 @@
 baseURL = "https://mazzutti.github.io/"
 languageCode = "en"
 title = ""
-googleAnalytics = "UA-XXXXXXX-Y"
+googleAnalytics = "G-NCPYQGF1R2"
 
 [minify]
     [minify.tdewolff]
