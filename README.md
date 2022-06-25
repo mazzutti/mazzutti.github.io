@@ -5,7 +5,7 @@ designed for developers by Xiaoying Riley.
 
 ## Screenshot
 
-![DevResume screenshot](https://raw.githubusercontent.com/mazzutti/mazzutti.github.io/main/themes/hugo-devresume-theme/images/screenshot.png)
+![DevResume screenshot](https://raw.githubusercontent.com/mazzutti/mazzutti.github.io/main/images/screenshot.png)
 
 ## Features
 
